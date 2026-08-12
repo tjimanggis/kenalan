@@ -1,7 +1,7 @@
 # Halo!! Ahlan wa Sahlan, Kawan! 👋
 
 <p align="center">
-  <img src="URL_LOGO_TJIMANGGIS_KAMU" alt="Tjimanggis Logo" width="180" />
+  <img src="logo.png" alt="Tjimanggis Logo" width="180" />
 </p>
 
 ## ☕ Tentang Kita
