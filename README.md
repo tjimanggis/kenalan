@@ -36,9 +36,6 @@ Biar dibilang kaya *developer* beneran, ini alat lengkap yang biasa kita pake da
     <img src="https://img.shields.io/badge/Email-Kirim_Pesan-blue?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://saweria.co" target="_blank">
-    <img src="https://img.shields.io/badge/Saweria-Traktir_Kopi-orange?style=for-the-badge&logo=ko-fi" alt="Saweria" />
-  </a>
 </p>
 
 <p align="center">
